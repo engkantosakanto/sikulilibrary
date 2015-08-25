@@ -1,0 +1,1 @@
+java -jar sikuli-script.jar -r sikulilibrary.sikuli
